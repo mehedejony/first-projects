@@ -1,0 +1,11 @@
+.head{
+    box-sizing:border-box;
+    margin: 10%;
+    padding: 10%;
+}
+body{
+    background:url(images/light-background-hd-wallpaper-preview.jpg);
+}
+form{
+    box-shadow: 2px 4px 100px #ffffff;
+}
